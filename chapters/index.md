@@ -1,4 +1,4 @@
 Overview
 ========
 
-<WORKSHOP DESCRIPTION HERE>
+This reader documents my data science workflows.

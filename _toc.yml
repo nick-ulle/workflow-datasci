@@ -4,9 +4,10 @@
 format: jb-book
 root: chapters/index
 
-options:
-  numbered: true
+#options:
+#  numbered: false
 
 # Chapters may be written in either Markdown or as Jupyter Notebooks
 chapters:
-  - file: chapters/01_example
+  - file: chapters/project-management
+  - file: chapters/remote-computing

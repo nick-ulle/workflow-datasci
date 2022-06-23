@@ -1,10 +1,10 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: WORKSHOP TITLE
-author: YOUR NAME
-copyright: "202X"
-logo: img/datalab-logo-full-color-rgb-1.png
+title: Nick's Data Science Workflows
+author: Nick Ulle
+copyright: "2022"
+#logo: img/datalab-logo-full-color-rgb-1.png
 only_build_toc_files: true
 
 # Force re-execution of notebooks on each build.
@@ -24,7 +24,7 @@ latex:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/ucdavisdatalab/<YOUR REPO>
+  url: https://github.com/nick-ulle/workflow-datasci
   path_to_book: docs
 
 # Add GitHub buttons to your book
